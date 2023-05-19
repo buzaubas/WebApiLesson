@@ -1,4 +1,4 @@
 # WebApiLesson
 Использование Postman
 
-JWT авторизация
+JWT авторизация, подробности в reservation ветке
